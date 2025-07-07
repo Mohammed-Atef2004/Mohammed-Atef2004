@@ -41,9 +41,9 @@ I am a backend developer specializing in **ASP.NET Core**, with a passion for bu
 
 | Project                      | Description                                                                                                   | Tech Stack                      | Link                                                                                                      |
 |------------------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Shopping Cart**            | A modern shopping cart application supporting product management, cart operations, and order processing.      | ASP.NET Core, EF Core, SQL, MVC  | [View on GitHub](https://github.com/Mohammed-Atef2004/Shopping-Cart)                                      |
-| **Library Management System**| Comprehensive system for managing library resources, members, and lending operations.                         | ASP.NET Core, EF Core, SQL       | [View on GitHub](https://github.com/Mohammed-Atef2004/Library-Management-System-)                         |
-| **TINY Compiler**            | A lightweight compiler project, demonstrating parsing, syntax analysis, and code generation techniques.       | C++, Compiler Theory             | [View on GitHub](https://github.com/Mohammed-Atef2004/TINY-Compiler)                                      |
+| **Shopping Cart**            | A modern shopping cart application supporting product management, cart operations, and order processing.      | ASP.NET Core,MVC, EF Core, SQL, MVC  | [View on GitHub](https://github.com/Mohammed-Atef2004/Shopping-Cart)                                      |
+| **Library Management System**| Comprehensive system for managing library resources, members, and lending operations.                         | ASP.NET Core,MVC,EF Core, SQL       | [View on GitHub](https://github.com/Mohammed-Atef2004/Library-Management-System-)                         |
+| **TINY Compiler**            | A lightweight compiler project, demonstrating parsing, syntax analysis, and code generation techniques.       | C#, Compiler Theory             | [View on GitHub](https://github.com/Mohammed-Atef2004/TINY-Compiler)                                      |
 
 ---
 
