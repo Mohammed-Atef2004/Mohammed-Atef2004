@@ -20,30 +20,30 @@ I am a backend developer specializing in **ASP.NET Core**, with a passion for bu
 
 ## 🧰 Technical Skills
 
-| Programming Languages | Tools & Frameworks      | Concepts & Methodologies      | Soft Skills             |
-|----------------------|-------------------------|------------------------------|-------------------------|
-| C#                   | ASP.NET Core            | Data Structures              | Mentoring               |
-| SQL                  | .NET Framework          | Algorithms                   | Teamwork                |
-| JavaScript           | Entity Framework Core   | OOP                          | Communication           |
-| TypeScript           | MVC                     | SOLID                        | Problem Solving         |
-| Python               | Git                     | Design Patterns              | Leadership              |
-| C++                  | GitHub                  | Software Development         | Eagerness to Learn      |
-| Java                 | Microsoft SQL Server    | SQL Database                 |                         |
-| Scala                |                         | Information Technology       |                         |
-| LINQ                 |                         |                              |                         |
-| HTML                 |                         |                              |                         |
-| CSS                  |                         |                              |                         |
-| C                    |                         |                              |                         |
+  | Programming Languages | Tools & Frameworks      | Concepts & Methodologies      | Soft Skills             |
+  |----------------------|-------------------------|------------------------------|-------------------------|
+  | C#                   | ASP.NET Core            | Data Structures              | Mentoring               |
+  | SQL                  | .NET Framework          | Algorithms                   | Teamwork                |
+  | JavaScript           | Entity Framework Core   | OOP                          | Communication           |
+  | TypeScript           | MVC                     | SOLID                        | Problem Solving         |
+  | Python               | Git                     | Design Patterns              | Leadership              |
+  | C++                  | GitHub                  | Software Development         | Eagerness to Learn      |
+  | Java                 | Microsoft SQL Server    | SQL Database                 |                         |
+  | Scala                |                         | Information Technology       |                         |
+  | LINQ                 |                         |                              |                         |
+  | HTML                 |                         |                              |                         |
+  | CSS                  |                         |                              |                         |
+  | C                    |                         |                              |                         |
 
 ---
 
 ## 🌟 Featured Projects
 
 | Project                      | Description                                                                                                   | Tech Stack                      | Link                                                                                                      |
-|------------------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Shopping Cart**            | A modern shopping cart application supporting product management, cart operations, and order processing.      | ASP.NET Core,MVC, EF Core, SQL, MVC  | [View on GitHub](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App)                                     |
-| **Educational Courses Platform API**| Comprehensive system for managing all operations requrired for courses, episodes, enrolllments and users.                         | ASP.NET Core,EF Core, SQL       | [View on GitHub](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm)                         |
-| **TINY Compiler**            | A lightweight compiler project, demonstrating parsing, syntax analysis, and code generation techniques.       | C#, Compiler Theory             | [View on GitHub](https://github.com/Mohammed-Atef2004/TINY-Compiler)                                      |
+|------------------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------|-------|
+| **Shopping Cart**            | A modern shopping cart application supporting product management, cart operations, and order processing.      | ASP.NET Core,MVC,Identity, Users Roles ,EF Core, SQL, MVC,N-tier Architecture  | [View on GitHub](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App)                                     |
+| **Educational Courses Platform API**| Comprehensive system for managing all operations requrired for courses, episodes, enrolllments and users.                         | ASP.NET Core,EF Core, SQL, Authentication,N-tier Architecture, Identity, User Roles       | [View on GitHub](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm)                         |
+| **Library management System**            | Library Management System is an ASP.NET web app for managing books, users, and borrowing records efficiently.   | C#, MVC, EF core , LINQ             | [View on GitHub](https://github.com/Mohammed-Atef2004/Library-Management-System-)                                      |
 
 ---
 
@@ -64,9 +64,3 @@ I am a backend developer specializing in **ASP.NET Core**, with a passion for bu
   <a href="https://github.com/Mohammed-Atef2004"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Atef2004&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-````
