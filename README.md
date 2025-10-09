@@ -37,11 +37,12 @@ I am a backend developer specializing in **ASP.NET Core**, with a passion for bu
 
 ## 🌟 Featured Projects
 
-| Project                      | Description                                                                                                   | Tech Stack                      | Link                                                                                                      |
-|------------------------------|---------------------------------------------------------------------------------------------------------------|----------------------------------|-------|
-| **Shopping Cart**            | A modern shopping cart application supporting product management, cart operations, and order processing.      | ASP.NET Core,MVC,Identity, Users Roles ,EF Core, SQL, MVC,N-tier Architecture  | [View on GitHub](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App)                                     |
-| **Educational Courses Platform API**| Comprehensive system for managing all operations requrired for courses, episodes, enrolllments and users.                         | ASP.NET Core,EF Core, SQL, Authentication,N-tier Architecture, Identity, User Roles       | [View on GitHub](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm)                         |
-| **Library management System**            | Library Management System is an ASP.NET web app for managing books, users, and borrowing records efficiently.   | C#, MVC, EF core , LINQ             | [View on GitHub](https://github.com/Mohammed-Atef2004/Library-Management-System-)  
+| **Project**                          | **Description**                                                                                                                       | **Technologies**                                                                      | **GitHub**                                                                         |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Shopping Cart**                    | A modern shopping cart application supporting product management, cart operations, and order processing.                              | ASP.NET Core, MVC, Identity, User Roles, EF Core, SQL, MVC, N-tier Architecture       | [View on GitHub](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App)       |
+| **Educational Courses Platform API** | Comprehensive system for managing all operations required for courses, episodes, enrollments, and users.                              | ASP.NET Core, EF Core, SQL, Authentication, N-tier Architecture, Identity, User Roles | [View on GitHub](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm) |
+| **Movie Streaming Platform**         | A full-featured movie streaming web app that allows users to browse, watch, and manage movies with authentication and admin controls. | ASP.NET Core, MVC, EF Core, SQL Server, Identity, User Roles, N-tier Architecture, Background Services, Integrating Payment Methods     | [View on GitHub](https://github.com/Mohammed-Atef2004/Movie-Streaming-Platform)    |
+
 
 
 ---
