@@ -1,63 +1,119 @@
-
-<h1 align="center">Hi, I'm Mohammed Atef 👋</h1>
-<p align="center"><b>Backend Developer | ASP.NET Core Specialist</b></p>
+<h1 align="center">Hi there, I'm Mohammed Atef <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <a href="https://github.com/Mohammed-Atef2004">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239120&center=true&vCenter=true&width=435&lines=Backend+Developer;ASP.NET+Core+Specialist;Software+Engineer;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building scalable, robust systems with a focus on performance and clean architecture.</b>
+</p>
+
+<p align="center">
+  <a href="#-technical-skills">
+    <img src="https://img.shields.io/badge/SKILLS-239120?style=for-the-badge&logo=codepen&logoColor=white" alt="Skills" />
+  </a>
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/PROJECTS-007ACC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Projects" />
+  </a>
+  <a href="#-github-stats">
+    <img src="https://img.shields.io/badge/STATS-CC2927?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="Stats" />
+  </a>
+  <a href="#-connect-with-me">
+    <img src="https://img.shields.io/badge/CONTACT-512BD4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a backend developer specializing in **ASP.NET Core**, with a passion for building scalable, robust systems and delivering clean, maintainable code. I thrive on solving complex problems, optimizing performance, and collaborating as part of a professional engineering team.
+I am a passionate **Backend Developer** specializing in the **Microsoft Ecosystem**. I thrive on solving complex backend challenges, optimizing SQL performance, and implementing **Domain-Driven Design (DDD)** in enterprise-level applications.
+
+* 🔭 I’m currently working on **Advanced Microservices Patterns**.
+* 🌱 I’m currently learning **Cloud Native .NET (Azure/AWS)**.
+* 👯 I’m looking to collaborate on **Open Source .NET projects**.
+* ⚡ **Core Philosophy:** "Make it work, make it right, make it fast."
 
 ---
 
-## 🧰 Technical Skills
+## 🛠️ Technical Skills
 
-  | Programming Languages | Tools & Frameworks      | Concepts & Methodologies      | Soft Skills             |
-  |----------------------|-------------------------|------------------------------|-------------------------|
-  | C#                   | ASP.NET Core            | Data Structures              | Mentoring               |
-  | SQL                  | .NET Framework          | Algorithms                   | Teamwork                |
-  | JavaScript           | Entity Framework Core   | OOP                          | Communication           |
-  | TypeScript           | MVC                     | SOLID                        | Problem Solving         |
-  | Python               | Git                     | Design Patterns              | Leadership              |
-  | C++                  | GitHub                  | Software Development         | Eagerness to Learn      |
-  | Java                 | Microsoft SQL Server    | SQL Database                 |                         |
-  |   HTML              |     web API             | Information Technology       |                         |
-  |     CSS             |            LINQ             |                              |                         |
- 
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
----
+### 🌐 Frameworks & Technologies
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_API-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-0078D7?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 🧠 Concepts & Architecture
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=codacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/DDD-Domain_Driven_Design-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Patterns-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-purple?style=for-the-badge" />
+</p>
+
+
 
 ## 🌟 Featured Projects
 
-| **Project**                          | **Description**                                                                                                                       | **Technologies**                                                                                                      | **GitHub**                                                                                     |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **Shopping Cart**                    | A modern shopping cart application supporting product management, cart operations, and order processing.                              | ASP.NET Core, MVC, Identity, User Roles, EF Core, SQL, MVC, N-tier Architecture                                       | [View on GitHub](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App)                   |
-| **Educational Courses Platform API** | Comprehensive system for managing all operations required for courses, episodes, enrollments, and users.                              | ASP.NET Core, EF Core, SQL, Authentication, N-tier Architecture, Identity, User Roles                                 | [View on GitHub](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm)             |
-| **Movie Streaming Platform**         | A full-featured movie streaming web app that allows users to browse, watch, and manage movies with authentication and admin controls. | ASP.NET Core, MVC, EF Core, SQL Server, Identity, User Roles, N-tier Architecture, Background Services, Integrating Payment Methods | [View on GitHub](https://github.com/Mohammed-Atef2004/Movie-Streaming-Platform)                |
-| **Smart Logistics & Fleet Management System** | Enterprise-level logistics system for managing fleets, drivers, shipments, routes, maintenance, and real-time tracking.             | ASP.NET Core, Clean Architecture, DDD, EF Core, SQL Server, Identity, JWT Authentication, Role-Based Authorization, Background Services, REST APIs, Modular Monolith | [View on GitHub](https://github.com/Mohammed-Atef2004/-Smart-Logistics-Fleet-Management-System) |
+| **Project** | **Description** | **Tech Stack** | **Repo** |
+| :--- | :--- | :--- | :---: |
+| 🚚 **Smart Logistics & Fleet System** | Enterprise-level logistics system for managing fleets, drivers, shipments, routes, and maintenance. Built with **Clean Architecture** and **DDD**. | `.NET 8` `EF Core` `SQL Server` `JWT` `Background Services` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/-Smart-Logistics-Fleet-Management-System) |
+| 🎬 **Movie Streaming Platform** | A full-featured streaming web app allowing users to watch and manage movies with Admin controls and subscription integration. | `ASP.NET MVC` `Identity` `N-Tier` `Payment Integration` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/Movie-Streaming-Platform) |
+| 🎓 **Educational Courses API** | Comprehensive Web API for managing course catalogs, episodes, enrollments, and student progress tracking. | `Web API` `EF Core` `Auth` `SQL` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm) |
+| 🛒 **E-Commerce Shopping Cart** | A modern shopping cart implementation handling product sessions, user roles, and checkout flows. | `ASP.NET Core` `MVC` `Session Mgmt` `SQL` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App) |
 
-## 💡 Professional Values
+---
 
-- Write clean, efficient, and maintainable code
-- Embrace continuous learning and knowledge sharing
-- Lead and mentor teams with a collaborative spirit
-- Communicate effectively and solve problems proactively
+## 💡 Professional Values & Soft Skills
+
+| Values | Soft Skills |
+| :--- | :--- |
+| ✅ **Clean Code**: Readable, maintainable, and testable. | 🤝 **Mentorship**: Helping junior devs grow. |
+| 🔄 **Agile Mindset**: Iterative improvement. | 🗣️ **Communication**: Clear technical explanation. |
+| 🏗️ **Scalability**: Designing for the future. | 🧩 **Problem Solving**: Analytical thinking. |
 
 ---
 
 ## 📫 Connect with Me
 
-<p>
-  <a href="mailto:muhamedatef.82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mohammed-atef-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Mohammed-Atef2004"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+<p align="center">
+  <a href="mailto:muhamedatef.82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-atef-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Mohammed-Atef2004">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-Atef2004&style=flat-square&color=blue" alt="Profile Views" />
+</p>
