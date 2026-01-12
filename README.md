@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/Mohammed-Atef2004">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239120&center=true&vCenter=true&width=435&lines=Backend+Developer;ASP.NET+Core+Specialist;Software+Engineer;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239120&center=true&vCenter=true&width=435&lines=Backend+Developer;ASP.NET+Core+Specialist;DDD+&+Clean+Architecture;Software+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <b>Building scalable, robust systems with a focus on performance and clean architecture.</b>
+  <b>Building scalable, maintainable systems with a strong focus on Clean Architecture and Domain-Driven Design.</b>
 </p>
 
 <p align="center">
@@ -29,12 +29,13 @@
 
 ## 🚀 About Me
 
-I am a passionate **Backend Developer** specializing in the **Microsoft Ecosystem**. I thrive on solving complex backend challenges, optimizing SQL performance, and implementing **Domain-Driven Design (DDD)** in enterprise-level applications.
+I am a passionate **Backend Developer** specializing in **ASP.NET Core** and **enterprise-level backend architectures**.  
+I focus on writing **clean, maintainable, and testable code** using **Domain-Driven Design (DDD)** and **Clean Architecture principles**.
 
-* 🔭 I’m currently working on **Advanced Microservices Patterns**.
-* 🌱 I’m currently learning **Cloud Native .NET (Azure/AWS)**.
-* 👯 I’m looking to collaborate on **Open Source .NET projects**.
-* ⚡ **Core Philosophy:** "Make it work, make it right, make it fast."
+* 🔭 I’m currently working on **building robust backend systems and learning advanced C# patterns**.
+* 🌱 I’m continuously improving my skills in **Clean Architecture, DDD, and design patterns**.
+* 👯 I’m looking to collaborate on **challenging .NET projects that follow professional architecture principles**.
+* ⚡ **Core Philosophy:** "Make it work, make it right, make it maintainable."
 
 ---
 
@@ -74,19 +75,18 @@ I am a passionate **Backend Developer** specializing in the **Microsoft Ecosyste
   <img src="https://img.shields.io/badge/DDD-Domain_Driven_Design-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOLID_Principles-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design_Patterns-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-purple?style=for-the-badge" />
 </p>
 
-
+---
 
 ## 🌟 Featured Projects
 
 | **Project** | **Description** | **Tech Stack** | **Repo** |
 | :--- | :--- | :--- | :---: |
-| 🚚 **Smart Logistics & Fleet System** | Enterprise-level logistics system for managing fleets, drivers, shipments, routes, and maintenance. Built with **Clean Architecture** and **DDD**. | `.NET 8` `EF Core` `SQL Server` `JWT` `Background Services` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/-Smart-Logistics-Fleet-Management-System) |
-| 🎬 **Movie Streaming Platform** | A full-featured streaming web app allowing users to watch and manage movies with Admin controls and subscription integration. | `ASP.NET MVC` `Identity` `N-Tier` `Payment Integration` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/Movie-Streaming-Platform) |
-| 🎓 **Educational Courses API** | Comprehensive Web API for managing course catalogs, episodes, enrollments, and student progress tracking. | `Web API` `EF Core` `Auth` `SQL` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm) |
-| 🛒 **E-Commerce Shopping Cart** | A modern shopping cart implementation handling product sessions, user roles, and checkout flows. | `ASP.NET Core` `MVC` `Session Mgmt` `SQL` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App) |
+| 🚚 **Smart Logistics & Fleet System** | Enterprise-level logistics system for managing fleets, drivers, shipments, routes, and maintenance. Built with **Clean Architecture** and **DDD** principles. | `.NET 8` `EF Core` `SQL Server` `JWT` `Background Services` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/-Smart-Logistics-Fleet-Management-System) |
+| 🎬 **Movie Streaming Platform** | Full-featured streaming web app with Admin controls and subscription management. Follows **N-Tier architecture** and clean coding practices. | `ASP.NET MVC` `Identity` `N-Tier` `Payment Integration` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/Movie-Streaming-Platform) |
+| 🎓 **Educational Courses API** | Web API for managing courses, episodes, enrollments, and student progress. Structured with **DDD and Clean Architecture**. | `Web API` `EF Core` `Auth` `SQL` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm) |
+| 🛒 **E-Commerce Shopping Cart** | Modern shopping cart handling product sessions, user roles, and checkout flows. Focused on maintainable backend design. | `ASP.NET Core` `MVC` `Session Mgmt` `SQL` | [<img src="https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github">](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App) |
 
 ---
 
@@ -96,7 +96,7 @@ I am a passionate **Backend Developer** specializing in the **Microsoft Ecosyste
 | :--- | :--- |
 | ✅ **Clean Code**: Readable, maintainable, and testable. | 🤝 **Mentorship**: Helping junior devs grow. |
 | 🔄 **Agile Mindset**: Iterative improvement. | 🗣️ **Communication**: Clear technical explanation. |
-| 🏗️ **Scalability**: Designing for the future. | 🧩 **Problem Solving**: Analytical thinking. |
+| 🏗️ **Scalability**: Designing for maintainable growth. | 🧩 **Problem Solving**: Analytical thinking. |
 
 ---
 
