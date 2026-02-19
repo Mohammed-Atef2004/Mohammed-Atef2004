@@ -52,7 +52,7 @@ I am a results-driven **Backend Developer** specializing in **ASP.NET Core** and
 | 🚚 **Smart Logistics** | Fleet & Shipment management system with real-time tracking. | **DDD**, Rich Domain Models, Background Services | [📁](https://github.com/Mohammed-Atef2004/-Smart-Logistics-Fleet-Management-System) |
 | 🏥 **Hospital System** | Enterprise HMS for patients, doctors, and pharmacy billing. | **CQRS**, MediatR, SignalR, Global Exception Handling | [📁](https://github.com/Mohammed-Atef2004/Hospital-Management-System) |
 | 🎬 **Streaming Plat.** | VOD platform with Admin dashboard and subscription management. | **N-Tier**, Identity Framework, Payment Integration | [📁](https://github.com/Mohammed-Atef2004/Movie-Streaming-Platform) |
-| 🎓 **LMS API** | Educational platform for managing courses and student progress. | **Clean Architecture**, SOLID, FluentValidation | [📁](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm) |
+| 🎓 **Learnify API** | Educational platform for managing courses and student progress. | **Clean Architecture**, SOLID, FluentValidation | [📁](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm) |
 | 🛒 **E-Commerce** | Shopping cart with session management and checkout flow. | **ASP.NET Core MVC**, SQL Server, Auth | [📁](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App) |
 
 ---
