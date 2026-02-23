@@ -60,7 +60,7 @@ I am a results-driven **Backend Developer** specializing in **ASP.NET Core** and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Atef2004&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Atef2004" width="48%" />
 </p>
 
 ---
