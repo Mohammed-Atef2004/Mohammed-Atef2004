@@ -18,6 +18,17 @@
 
 ---
 
+## 🚀 Featured Contribution
+
+* ✅ Contributed to **Microsoft ASP.NET Core Documentation** (`dotnet/AspNetCore.Docs`)
+* Added a practical example for handling `[AllowAnonymous]` endpoints in OpenAPI
+* Demonstrated how to conditionally apply security using `IOpenApiOperationTransformer`
+* Successfully reviewed and merged into the main branch
+
+🔗 [https://github.com/dotnet/AspNetCore.Docs/pull/36902](https://github.com/dotnet/AspNetCore.Docs/pull/36902)
+
+---
+
 ## 🚀 About Me
 
 I am a results-driven **Backend Developer** specializing in **ASP.NET Core** and enterprise-grade systems. I bridge the gap between complex business requirements and high-performance software using **Domain-Driven Design (DDD)** and **Clean Architecture**.
@@ -29,17 +40,20 @@ I am a results-driven **Backend Developer** specializing in **ASP.NET Core** and
 ## ⚙️ Detailed Technical Skills
 
 ### 🌐 Backend Development & Frameworks
+
 * **ASP.NET Core Web API:** Mastery in building RESTful services, Middleware customization, and Dependency Injection.
 * **Security & Identity:** Implementing **ASP.NET Core Identity**, JWT Authentication/Authorization, Role-Based Access Control (RBAC), and Claims-based security.
 * **Asynchronous Programming:** Expert use of `Task/Await` and optimizing I/O bound operations.
 
 ### 🏗️ Architecture & Design Patterns
+
 * **Clean Architecture:** Strict separation of concerns (Domain, Application, Infrastructure, and Presentation layers).
 * **Domain-Driven Design (DDD):** Proficient in Aggregate Roots, Entities, Value Objects, Domain Services, and Domain Events to handle complex business logic.
 * **Design Patterns:** Deep understanding of **CQRS (MediatR)**, Repository Pattern, Unit of Work, Specification Pattern, and Singleton/Factory patterns.
 * **SOLID Principles:** Writing decoupled, testable, and highly maintainable code.
 
 ### 🗄️ Data Management & Persistence
+
 * **EF Core:** Advanced LINQ queries, Migrations, Eager/Lazy/Explicit Loading, and Performance Tuning.
 * **SQL Server:** Database design, Normalization, T-SQL, and indexing strategies.
 
@@ -47,13 +61,13 @@ I am a results-driven **Backend Developer** specializing in **ASP.NET Core** and
 
 ## 🌟 Featured Projects
 
-| Project | Description & Key Features | Technical Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| 🚚 **Smart Logistics** | Fleet & Shipment management system with real-time tracking. | **DDD**, Rich Domain Models, Background Services | [📁](https://github.com/Mohammed-Atef2004/-Smart-Logistics-Fleet-Management-System) |
-| 🏥 **Hospital System** | Enterprise HMS for patients, doctors, and pharmacy billing. | **CQRS**, MediatR, SignalR, Global Exception Handling | [📁](https://github.com/Mohammed-Atef2004/Hospital-Management-System) |
-| 🎬 **Streaming Plat.** | VOD platform with Admin dashboard and subscription management. | **N-Tier**, Identity Framework, Payment Integration | [📁](https://github.com/Mohammed-Atef2004/Movie-Streaming-Platform) |
-| 🎓 **Learnify API** | Educational platform for managing courses and student progress. | **Clean Architecture**, SOLID, FluentValidation | [📁](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm) |
-| 🛒 **E-Commerce** | Shopping cart with session management and checkout flow. | **ASP.NET Core MVC**, SQL Server, Auth | [📁](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App) |
+| Project                | Description & Key Features                                      | Technical Highlights                                  |                                        Links                                        |
+| :--------------------- | :-------------------------------------------------------------- | :---------------------------------------------------- | :---------------------------------------------------------------------------------: |
+| 🚚 **Smart Logistics** | Fleet & Shipment management system with real-time tracking.     | **DDD**, Rich Domain Models, Background Services      | [📁](https://github.com/Mohammed-Atef2004/-Smart-Logistics-Fleet-Management-System) |
+| 🏥 **Hospital System** | Enterprise HMS for patients, doctors, and pharmacy billing.     | **CQRS**, MediatR, SignalR, Global Exception Handling |        [📁](https://github.com/Mohammed-Atef2004/Hospital-Management-System)        |
+| 🎬 **Streaming Plat.** | VOD platform with Admin dashboard and subscription management.  | **N-Tier**, Identity Framework, Payment Integration   |         [📁](https://github.com/Mohammed-Atef2004/Movie-Streaming-Platform)         |
+| 🎓 **Learnify API**    | Educational platform for managing courses and student progress. | **Clean Architecture**, SOLID, FluentValidation       |        [📁](https://github.com/Mohammed-Atef2004/Educational-Courses-Platorm)       |
+| 🛒 **E-Commerce**      | Shopping cart with session management and checkout flow.        | **ASP.NET Core MVC**, SQL Server, Auth                |           [📁](https://github.com/Mohammed-Atef2004/Shopping-Cart-Web-App)          |
 
 ---
 
