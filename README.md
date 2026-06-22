@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-239120?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt%20🇪🇬-CC2927?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt%20-CC2927?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20To-New%20Opportunities-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Mohammed-Atef2004&style=flat-square&color=239120&label=Profile+Views" />
 </p>
