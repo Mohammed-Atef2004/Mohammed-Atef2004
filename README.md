@@ -110,24 +110,6 @@ Contributed a real-world OpenAPI example for handling `[AllowAnonymous]` endpoin
   </thead>
   <tbody>
     <tr>
-      <td><strong>🏥 Hospital Management System</strong><br/><sub>Jan 2026 – Present</sub></td>
-      <td>
-        Enterprise RESTful API for end-to-end hospital ops — staff, departments, pharmacy & billing.<br/>
-        • Clean Architecture + DDD + CQRS across all layers<br/>
-        • JWT · Identity · RBAC · Admin management<br/>
-        • Doctor & Department scheduling with domain unit tests
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/ASP.NET_Core_8-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/DDD-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/CQRS-512BD4?style=flat-square"/><br/>
-        <img src="https://img.shields.io/badge/SignalR-0078D7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/xUnit-239120?style=flat-square"/>
-      </td>
-      <td align="center"><sub>👥 Team</sub></td>
-      <td align="center"><a href="https://github.com/Mohammed-Atef2004/Hospital-Management-System"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
       <td><strong>🚚 Smart Logistics & Fleet Management</strong><br/><sub>Jan 2026 – May 2026</sub></td>
       <td>
         Enterprise logistics backend across <strong>10 business domains</strong>: fleet, shipments, warehouses, inventory, payments & insurance.<br/>
