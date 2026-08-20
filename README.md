@@ -42,6 +42,7 @@ Contributed a real-world OpenAPI example for handling `[AllowAnonymous]` endpoin
 
 [![View Pull Request](https://img.shields.io/badge/View%20Pull%20Request-%23239120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotnet/AspNetCore.Docs/pull/36902)
 
+
 ---
 
 ## 🛡️ Tech Stack & Skills
@@ -109,6 +110,24 @@ Contributed a real-world OpenAPI example for handling `[AllowAnonymous]` endpoin
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><strong>🏥 Hospital Management System</strong><br/><sub>Jan 2026 – Present · In Progress</sub></td>
+      <td>
+        Healthcare management system built with Domain-Driven Design and Clean Architecture to support hospital operations and clinical workflows.<br/>
+        • Established the project's architectural foundation using Clean Architecture, DDD, and CQRS with MediatR, ensuring clear separation of concerns<br/>
+        • Developed the Doctor and Department modules — business rules, scheduling workflows, and RESTful APIs following rich domain modeling<br/>
+        • Applied FluentValidation, custom MediatR pipeline behaviors, and domain unit tests (xUnit + FluentAssertions) for request validation, transactional consistency, and domain correctness
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/ASP.NET_Core_8-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/DDD-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Clean_Architecture-1572B6?style=flat-square"/><br/>
+        <img src="https://img.shields.io/badge/CQRS_MediatR-512BD4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/xUnit-239120?style=flat-square"/>
+      </td>
+      <td align="center"><sub>👥 Team</sub></td>
+      <td align="center"><a href="https://github.com/Mohammed-Atef2004/Hospital-Management-System"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    </tr>
     <tr>
       <td><strong>🚚 Smart Logistics & Fleet Management</strong><br/><sub>Jan 2026 – May 2026</sub></td>
       <td>
