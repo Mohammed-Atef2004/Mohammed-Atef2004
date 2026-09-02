@@ -31,17 +31,53 @@ I am a results-driven **Backend Developer** specializing in **ASP.NET Core** and
 
 ---
 
-## 🚀 Open Source Contribution — Microsoft
+## 🚀 Open Source Contributions
 
-> **[dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs/pull/36902) — PR #36902 · ✅ Merged into `microsoft/main`**
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs%20Merged-2-239120?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reviewed%20By-Microsoft%20Maintainers-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Merged-brightgreen?style=for-the-badge" />
+</p>
 
-Contributed a real-world OpenAPI example for handling `[AllowAnonymous]` endpoints in Microsoft's official ASP.NET Core documentation.
-
-- 📌 Demonstrated **conditional security** using a custom `IOpenApiOperationTransformer`
-- ✅ Successfully reviewed by Microsoft maintainers and **merged into the official docs repo**
-
-[![View Pull Request](https://img.shields.io/badge/View%20Pull%20Request-%23239120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotnet/AspNetCore.Docs/pull/36902)
-
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Contribution</th>
+      <th align="left">Stack</th>
+      <th align="center">Status</th>
+      <th align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🟦 dotnet/AspNetCore.Docs</strong><br/><sub>Microsoft's official ASP.NET Core docs</sub></td>
+      <td>
+        Contributed a real-world OpenAPI example for handling <code>[AllowAnonymous]</code> endpoints — implemented a custom <code>IOpenApiOperationTransformer</code> for conditional endpoint security documentation.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square"/>
+      </td>
+      <td align="center">✅ Merged<br/><sub>PR #36902</sub></td>
+      <td align="center"><a href="https://github.com/dotnet/AspNetCore.Docs/pull/36902"><img src="https://img.shields.io/badge/View%20PR-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    </tr>
+    <tr>
+      <td><strong>🟩 TalebElm</strong><br/><sub>Open-source educational LMS platform</sub></td>
+      <td>
+        Contributed backend features, architecture, and validation logic within a multi-contributor codebase — collaborated via GitHub Issues/PRs following the project's Clean Architecture conventions.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/.NET_10-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-239120?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Clean_Architecture-1572B6?style=flat-square"/>
+      </td>
+      <td align="center">🤝 Active<br/><sub>Multi-contributor</sub></td>
+      <td align="center"><a href="https://github.com/Mohammed-Atef2004"><img src="https://img.shields.io/badge/Profile-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
