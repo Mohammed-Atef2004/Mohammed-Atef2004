@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Mohammed-Atef2004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=239120&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9A%80;ASP.NET+Core+Specialist+%E2%9A%99%EF%B8%8F;Domain-Driven+Design+Expert+%F0%9F%8F%97%EF%B8%8F;Clean+Architecture+Advocate+%F0%9F%A7%B9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=239120&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;.NET+%26+Angular+Developer+%E2%9A%99%EF%B8%8F;ASP.NET+Core+Specialist+%F0%9F%92%BB;Domain-Driven+Design+%F0%9F%8F%97%EF%B8%8F;Clean+Architecture+Advocate+%F0%9F%A7%B9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,11 @@
 
 ## 💻 About Me
 
-I am a results-driven **Backend Developer** specializing in **ASP.NET Core** and enterprise-grade systems. I bridge the gap between complex business requirements and high-performance software using **Domain-Driven Design (DDD)** and **Clean Architecture**.
+I am a **.NET Full Stack Developer** with a strong focus on **Backend Engineering**, specializing in **ASP.NET Core, C#, and Angular**.
+
+I build maintainable and scalable applications using **Clean Architecture, Domain-Driven Design (DDD), CQRS, and modern software engineering practices**, with hands-on experience across backend systems, APIs, and full-stack applications.
+
+Beyond development, I contribute to **Open Source projects** and work as a **Technical Mentor**, helping developers strengthen their engineering practices and move from core programming concepts toward real-world backend development.
 
 ```text
 💡 Philosophy:  "Make it work, make it right, make it maintainable."
@@ -86,49 +90,49 @@ I am a results-driven **Backend Developer** specializing in **ASP.NET Core** and
 ### 🌐 Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SignalR-0078D7?style=for-the-badge&logo=signalr&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Data Access
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Dapper-CC2927?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Storage
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### 🏗️ Architecture & Patterns
+### 🏗️ Architecture & Design
 <p align="left">
   <img src="https://img.shields.io/badge/Clean_Architecture-1572B6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/DDD-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain--Driven_Design-FF6F00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/CQRS-239120?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertical_Slice-9B59B6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repository_Pattern-9B59B6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertical_Slice_Architecture-9B59B6?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SOLID-E74C3C?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🔐 Security & Auth
+### 🔐 Security & Authentication
 <p align="left">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/RBAC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/TOTP_2FA-239120?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🛠️ Tools & DevOps
+### ⚙️ Engineering & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hangfire-239120?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
